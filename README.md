@@ -139,7 +139,7 @@ A quick reference for the famous BigInteger class in Java.
 - [BigNum arithmetic in Java — Let's outperform BigInteger! - Codeforces](http://codeforces.com/blog/entry/17235)  
 A basic but faster custom BigInteger class.
 - [EZ Collections, EZ Life (new Java library for contests) - Codeforces](http://codeforces.com/blog/entry/14328)  
-A Java library for contests written by Alexey Dergunov (dalex). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented.
+A Java library for contests written by Alexey Dergunov ([user:dalex]). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented.
 
 #### Miscellaneous
 
@@ -340,8 +340,8 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 
 ### Other Awesome Articles and FAQs
 
-- [The 'science' of training in competitive programming](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen ([user:I_love_Hoang_Yen])
-- [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog.](http://codeforces.com/blog/entry/16599), by Huang I-Wen ([user:doreamon], dreamoon)
+- [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen ([user:I_love_Hoang_Yen])
+- [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen ([user:doreamon], dreamoon)
 
 - [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitive-programming-5)
 - [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems)  
