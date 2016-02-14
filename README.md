@@ -93,7 +93,7 @@ This site offers tutorials on popular interview topics.
 Algorithm / Data structure implementations.  
 It is advised that you write your own ones before looking at others'.
 
-- [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256)  
+- [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko ([user:indy256])  
 This site contains a large amount of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary).
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
 Stanford's team notebook is well maintained and the codes within are high-quality.
@@ -161,7 +161,7 @@ It's highly recommended that you begin your competitive programming journey with
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
 This course offers comprehensive lecture slides and a short list of exercise problems.
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)  
-An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice.
+An awesome course taught by [Bjarki Ágúst Guðmundsson ([user:SuprDewd])](https://algo.is). These lectures feature neat slides and a nice list of problems to practice.
 - [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)  
 A course on basic topics featuring good lecture slides.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
@@ -226,7 +226,7 @@ The SPOJ platform is centered around an online judge system. It holds a staggeri
 - [Timus](http://acm.timus.ru/)  
 Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
 - [SGU](http://acm.sgu.ru/)  
-SGU is an old-school online judge maintained by Saratov State University. A high-rated competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
+SGU is an old-school online judge maintained by Saratov State University. A high-rated competitive programmer - Huang I-Wen ([user:doreamon], dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
 - [HDU](http://acm.hdu.edu.cn/)  
 HDU is an online judge maintained by Hangzhou Dianzi University. It holds a pretty nice problemset. Users can also run virtual contests on this platform.
 - [UVa](https://uva.onlinejudge.org/)  
@@ -289,59 +289,59 @@ Learn helpful tips, tutorials and insights from these people :)
 
 ### Blogs
 - [Codeforces blogs](http://codeforces.com/)
-- Petr Mitrichev (Petr): [Algorithms Weekly](http://petr-mitrichev.blogspot.com/)
-- Bruce Merry (bmerry): [Entropy always increases](http://blog.brucemerry.org.za/)
-- Przemysław Dębiak (Psyho): [Psyho's blog](http://psyho.gg/)
-- Anudeep Nekkanti (anudeep2011): [Namespace Anudeep ;)](http://blog.anudeep2011.com/)
-- vexorian (vexorian): [vexorian's blog](http://www.vexorian.com/)
-- Ashar Fuadi (fushar): [Fushar's blog](http://fusharblog.com/)
-- LiJie Chen (WJMZBMR): [WJMZBMR (Chinese)](http://wjmzbmr.com/)
-- Huang I-Wen (dreamoon): [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/)
-- Po-Jui Chen (a00012025): [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/)
+- Petr Mitrichev ([user:Petr]): [Algorithms Weekly](http://petr-mitrichev.blogspot.com/)
+- Bruce Merry ([user:bmerry]): [Entropy always increases](http://blog.brucemerry.org.za/)
+- Przemysław Dębiak ([user:SomeGuyTookMyHandle], Psyho): [Psyho's blog](http://psyho.gg/)
+- Anudeep Nekkanti ([user:anudeep2011]): [Namespace Anudeep ;)](http://blog.anudeep2011.com/)
+- vexorian ([user:vexorian]): [vexorian's blog](http://www.vexorian.com/)
+- Ashar Fuadi ([user:fushar]): [Fushar's blog](http://fusharblog.com/)
+- LiJie Chen ([user:WJMZBMR]): [WJMZBMR (Chinese)](http://wjmzbmr.com/)
+- Huang I-Wen ([user:doreamon], dreamoon): [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/)
+- Po-Jui Chen ([user:a00012025]): [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/)
 - Shiang-Yun Yang (morris1028): [Morris' Blog (Chinese)](http://morris821028.github.io/)
-- Yuhao Du (TooDifficuIt, TooSimple, xudyh): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
+- Yuhao Du ([user:TooDifficuIt], TooSimple, xudyh): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
 
 ### Team Wikis
-- Dreadnought (TankEngineer, rowdark, AngryBacon): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/)
+- Dreadnought ([user:TankEngineer], [user:rowdark], [user:AngryBacon]): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/)
 
 ### Youtube and Livestreams
 - [HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw)
-- Petr Mitrichev (Petr): [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
-- Egor Kulikov (Egor): [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
-- Adam Bardashevich (subscriber): [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw)
-- Bohdan Pryshchenko (I_love_Tanya_Romanova): [Twitch](http://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ)
-- Vladimir Smykalov (enot.1.10): [Twitch](http://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA)
+- Petr Mitrichev ([user:Petr]): [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
+- Egor Kulikov ([user:Egor]): [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
+- Adam Bardashevich ([user:subscriber]): [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw)
+- Bohdan Pryshchenko ([user:I_love_Tanya_Romanova]): [Twitch](http://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ)
+- Vladimir Smykalov ([user:enot.1.10]): [Twitch](http://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA)
 
 ### Quora
 Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
 Awesome people to follow (Too many people to list, separated by commas and in groups of 3's thus):  
-[Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek), 
-[Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi), 
-[Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Jonathan-Paulson),   
-[Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2), 
-[Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov), 
-[Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k),   
-[Bohdan Pryshchenko (I_love_Tanya_Romanova)](https://www.quora.com/profile/Bohdan-Pryshchenko), 
-[Vladimir Novakovski (vnovakovski)](https://www.quora.com/profile/Vladimir-Novakovski), 
-[Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4),   
+[Michal Forišek ([user:misof])](https://www.quora.com/profile/Michal-Fori%C5%A1ek), 
+[Brian Bi ([user:bbi5291])](https://www.quora.com/profile/Brian-Bi), 
+[Jonathan Paulson ([user:jonathanpaulson])](https://www.quora.com/profile/Jonathan-Paulson),   
+[Miguel Oliveira ([user:mogers])](https://www.quora.com/profile/Miguel-Oliveira-2), 
+[Egor Suvorov ([user:yeputons])](https://www.quora.com/profile/Egor-Suvorov), 
+[Michal Danilák ([user:Mimino])](https://www.quora.com/profile/Michal-Danil%C3%A1k),   
+[Bohdan Pryshchenko ([user:I_love_Tanya_Romanova])](https://www.quora.com/profile/Bohdan-Pryshchenko), 
+[Vladimir Novakovski ([user:vnovakovski])](https://www.quora.com/profile/Vladimir-Novakovski), 
+[Nick Wu ([user:xiaowuc1])](https://www.quora.com/profile/Nick-Wu-4),   
 [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri), 
-[Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu), 
-[Ashish Kedia (ashish1294)](https://www.quora.com/profile/Ashish-Kedia),   
-[Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho), 
-[Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen), 
-[Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti),   
-[Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao), 
-[Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V), 
-[Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1).
+[Lalit Kundu ([user:darkshadows])](https://www.quora.com/profile/Lalit-Kundu), 
+[Ashish Kedia ([user:ashish1294])](https://www.quora.com/profile/Ashish-Kedia),   
+[Johnny Ho ([user:random.johnnyh])](https://www.quora.com/profile/Johnny-Ho), 
+[Thanh Trung Nguyen ([user:I_love_Hoang_Yen])](https://www.quora.com/profile/Thanh-Trung-Nguyen), 
+[Anudeep Nekkanti ([user:anudeep2011])](https://www.quora.com/profile/Anudeep-Nekkanti),   
+[Steven Hao ([user:stevenkplus])](https://www.quora.com/profile/Steven-Hao), 
+[Raziman T.V. ([user:razimantv])](https://www.quora.com/profile/Raziman-T-V), 
+[Joshua Pan ([user:lonerz])](https://www.quora.com/profile/Joshua-Pan-1).
 
 
 ## Appendix
 
 ### Other Awesome Articles and FAQs
 
-- [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen)
-- [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon)
+- [The 'science' of training in competitive programming](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen ([user:I_love_Hoang_Yen])
+- [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog.](http://codeforces.com/blog/entry/16599), by Huang I-Wen ([user:doreamon], dreamoon)
 
 - [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitive-programming-5)
 - [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems)  
